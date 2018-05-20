@@ -400,7 +400,7 @@ export class Admin extends Component {
             id="formControlsText"
             type="text"
             label="Приватный ключ"
-            placeholder="b819f1769169beaf7e6dcdb578dad519eccb86cf3139c3707b450caa1383ba"
+            placeholder="b819f1769169beaf7e6dcdb578dad519eccb86cf3129c3707b450caa1383ba"
             value={this.state.email}
             ref={(input)=>{this.emailInput = input}}
             onChange={this.changeEmail}
