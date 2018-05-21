@@ -363,7 +363,7 @@ export class Admin extends Component {
 
         <Panel>
         <Panel.Body>
-          Добавления сотрудника
+          Добавление сотрудника
           <br/>
           <br/>
 
